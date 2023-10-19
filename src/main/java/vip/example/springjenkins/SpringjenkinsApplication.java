@@ -18,7 +18,7 @@ public class SpringjenkinsApplication {
 	}
 
 	public static void main(String[] args) {
-		logger.info("Application Executed...... (2)");
+		logger.info("Application Executed PIPEline...... (2)");
 		SpringApplication.run(SpringjenkinsApplication.class, args);
 	}
 
